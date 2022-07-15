@@ -55,7 +55,6 @@ function reviewListView(list){
 
 
 
-
     let output = "";
       output += "<div class='blog__details__comment'>";
       output += "<h5 style='text-transform:capitalize; margin-bottom: 15px;'>Reviews("+list.length+")";
